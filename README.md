@@ -1,1 +1,1 @@
-# hackathon-verify-job-status-lambda
+# hackathon-video-process-checker-lambda
